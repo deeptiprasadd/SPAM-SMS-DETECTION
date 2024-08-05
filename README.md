@@ -1,3 +1,6 @@
+# **SPAM SMS DETECTION**
+ 
+
 For my recent project, I developed an AI model to classify SMS messages as spam or legitimate. Here’s a brief overview:
 
 ### Approach:
@@ -16,6 +19,6 @@ For my recent project, I developed an AI model to classify SMS messages as spam 
 ### Deployment:
 - **Streamlit App**: Used a pkl file and vectorize file to build a Streamlit app that showcases the prediction results in a user-friendly interface.
 
-### DATASET: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+***DATASET: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset***
 
 This project showcased the potential of AI in improving communication systems by accurately identifying spam messages.
